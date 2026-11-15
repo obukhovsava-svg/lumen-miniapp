@@ -1,7 +1,9 @@
-# Lumen Mini App
+# ЛЮМЕН — Нить света
 
-Published game: https://obukhovsava-svg.github.io/lumen-miniapp/
+Кооперативное 3D-приключение для двух игроков. Мост доверия, общий кристалл и синхронный маяк: три испытания, где нужен напарник.
 
-This repository contains the compiled browser application for GitHub Pages. The source code is maintained in a separate private repository. Multiplayer rooms run on a Cloudflare Worker with D1 storage.
+**Играть / URL Telegram Mini App:** https://obukhovsava-svg.github.io/lumen-miniapp/
 
-Use the published HTTPS URL as the Telegram Mini App URL in BotFather.
+Можно играть онлайн на двух устройствах или вдвоём на одном экране. Общий результат зависит от времени и возвращений к контрольным точкам.
+
+Этот репозиторий содержит только собранный веб-клиент. Исходники хранятся отдельно в приватном репозитории. Сервер комнат работает в Cloudflare Workers с Durable Objects.
